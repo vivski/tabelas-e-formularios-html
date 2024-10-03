@@ -1,0 +1,28 @@
+table {
+    margin: 0 auto; 
+    border-collapse: collapse; 
+    width: 60%;
+    background-color: #e0f7df; 
+  }
+
+thead th {
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid #333; 
+    background-color: #c8e6c9;
+    text-align: center;
+}
+
+tbody td {
+    padding: 8px; 
+    border: 1px solid #333; 
+    text-align: center;
+    background-color: #e0f7df;
+}
+
+caption {
+    font-size: 1.5em; 
+    font-weight: bold; 
+    margin-bottom: 15px; 
+    text-align: center;
+  }
